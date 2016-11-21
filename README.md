@@ -8,5 +8,6 @@ The interface must allow for interaction on phones, tablets, and PC's.
 
 The site must allow for applicant to:
 
-􀀀Submit their mashup resume prior to career day
+􀀀Submit their mashup resume prior to career day.
+
 􀀀And participate in gamed coding challenges based on their experience/skills to be reviewed by a recruiter.
