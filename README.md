@@ -1,5 +1,7 @@
 # Robust-Resume-Maker
 
+Currently in Progress- Independent Project
+
 HTML5 Web Application that allows for college applicants to create a robust resume online by pulling in existing personal online data to
 mashup into one entity. It includes capturing existing resumes from social media such as LinkedIn, GitHub to add coding projects they
 have participated in and contributions to open source projects, including feedback or questions linked to their stackoverflow.com accounts.
